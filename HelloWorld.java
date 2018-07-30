@@ -34,6 +34,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, World, I'm Nay Myo Myat!");
+    System.out.println("Hello, World, I'm Nay Myo Myat and you're idiot bla bla bla!");
   }
 }
